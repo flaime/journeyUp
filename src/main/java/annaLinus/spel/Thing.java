@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Thing {
 
 	private String name;
-	private int timesCanBePickedUp;
+	private int timesCanBePickedUp; //*kanske lägger utanför senare
 
 
 	public Thing(String name, int timesCanBePickedUp){
